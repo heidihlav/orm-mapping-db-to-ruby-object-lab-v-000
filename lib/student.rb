@@ -95,8 +95,9 @@ class Student
     end
   end
 
-  def self.first_X_students_in_grade_10(students)
-    binding.pry
+  def self.first_X_students_in_grade_10(total_for_10)
+    
+    # binding.pry
   end
 # Class end
 end

@@ -6,7 +6,7 @@ class Student
   # end
 
   def self.new_from_db(row)
-      # create a new Student object given a row from the database
+      id = Student.new# create a new Student object given a row from the database
   end
 
   def self.all

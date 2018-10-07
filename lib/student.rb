@@ -108,7 +108,10 @@ class Student
     end
   end
 
-  def 
+  def self.first_student_in_grade_10
+
+
+  end
 
 
 # Class end

@@ -108,6 +108,6 @@ class Student
     end
   end
 
-  
+
 # Class end
 end

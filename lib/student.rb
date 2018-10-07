@@ -75,6 +75,7 @@ class Student
       SELECT *
       FROM students
       WHERE grade = ?
+      LIMIT 1
     SQL
     binding.pry
     DB[:conn].execute(sql).map do |row|

@@ -9,7 +9,7 @@ class Student
 
   def self.new_from_db(row)
       binding.pry
-      id = Student.new
+      # id = Student.new
       id
        # create a new Student object given a row from the database
   end
